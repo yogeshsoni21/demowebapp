@@ -1,0 +1,11 @@
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\bin\Debug\netcoreapp2.0\demowebapp.deps.json
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\bin\Debug\netcoreapp2.0\demowebapp.runtimeconfig.json
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\bin\Debug\netcoreapp2.0\demowebapp.runtimeconfig.dev.json
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\bin\Debug\netcoreapp2.0\demowebapp.dll
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\bin\Debug\netcoreapp2.0\demowebapp.pdb
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\obj\Debug\netcoreapp2.0\demowebapp.csprojAssemblyReference.cache
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\obj\Debug\netcoreapp2.0\demowebapp.csproj.CoreCompileInputs.cache
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\obj\Debug\netcoreapp2.0\demowebapp.AssemblyInfoInputs.cache
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\obj\Debug\netcoreapp2.0\demowebapp.AssemblyInfo.cs
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\obj\Debug\netcoreapp2.0\demowebapp.dll
+E:\Projects\2020\ps\azurewebappdemo\demowebapp\obj\Debug\netcoreapp2.0\demowebapp.pdb
